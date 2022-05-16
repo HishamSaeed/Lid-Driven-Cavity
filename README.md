@@ -6,11 +6,11 @@ This repository contains a small solver to solve the problem of lid driven cavit
 you need to build the project first then run
 building instructions
 
-``` mkdir build```
-``` cd build\ ```
-``` cmake .. ```
-``` make ```
-``` cd build\ ```
+``` mkdir build``` <br />
+``` cd build\ ``` <br />
+``` cmake .. ``` <br />
+``` make ``` <br />
+``` cd build\ ``` <br />
 
 then run
 
