@@ -4,3 +4,5 @@ This repository contains a small solver to solve the problem of lid driven cavit
 # Velocity Visulaization
 
 ![alt format](https://github.com/HishamSaeed/Lid-Driven-Cavity/tree/main/Results/Lid_Driven_Cavity_Pressure.png?raw=true "Velocity")
+
+![ScreenShot](/Results/Lid_Driven_Cavity_Pressure.png)
